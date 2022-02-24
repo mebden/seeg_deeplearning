@@ -7,8 +7,6 @@
 
 """
 In this script the model being utilized is a simplified CNN *without* MaxPooling layers, which helps maintain relevance of timing/location in timeseries data.
-Ref: Feng et al. Applied Sciences. A Novel Simplified CNN Classification Algorithm of Motor Imagery EEG Signals based on Deep Learning (2020). 
-DOI: https://doi.org/10.3390/app10051605
 
 The Optimizer being used is AdaBound (Keras), which provides advantages of both Adam and SGD. Ref: https://github.com/Luolc/AdaBound
 
