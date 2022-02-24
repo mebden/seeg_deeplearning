@@ -7,9 +7,6 @@ Jan 2021
 
 '''
 
-## Should add a break down by region / network 
-## Can do this with the age data by also summarizing the relevant SHAP data per node
-
 
 import numpy as np
 import pandas as pd
