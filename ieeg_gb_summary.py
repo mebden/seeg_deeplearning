@@ -34,8 +34,7 @@ if not os.path.exists(FIND_path):
 if not os.path.exists(YEO_path):
     os.mkdir(YEO_path)
 
-patients = ['SEEG-SK-02','SEEG-SK-04','SEEG-SK-06','SEEG-SK-07','SEEG-SK-09','SEEG-SK-11','SEEG-SK-14',
-'SEEG-SK-15','SEEG-SK-18','SEEG-SK-19', 'SEEG-SK-20', 'SEEG-SK-21', 'SEEG-SK-24']
+patients = []
 
 shift_data = []
 non_shift_data = []
