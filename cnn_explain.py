@@ -41,8 +41,7 @@ try:
 except:
     # local debugging parameters
 
-    patients = ['SEEG-SK-02', 'SEEG-SK-04','SEEG-SK-06','SEEG-SK-07','SEEG-SK-09','SEEG-SK-11','SEEG-SK-14'
-    'SEEG-SK-15', 'SEEG-SK-18','SEEG-SK-19', 'SEEG-SK-20', 'SEEG-SK-21', 'SEEG-SK-24', 'SEEG-SK-26']
+    patients = []
 
 # Training Parameters
 epochs = 200
