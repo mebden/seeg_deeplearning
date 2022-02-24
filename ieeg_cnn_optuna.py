@@ -43,7 +43,7 @@ try:
     patients = [sys.argv[1]]
 except:
     # local debugging parameters
-    patients = ['SEEG-SK-04','SEEG-SK-06','SEEG-SK-09','SEEG-SK-11','SEEG-SK-15','SEEG-SK-18','SEEG-SK-19', 'SEEG-SK-20', 'SEEG-SK-21']
+    patients = []
 
 # Training Parameters
 k = 10
